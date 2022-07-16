@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@khyatig95 
-khyatig95
-/
-Concepts
-Public
-Code
-Issues
-1
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Concepts/substring.cpp
-@khyatig95
-khyatig95 Add files via upload
-Latest commit 8bcebc8 5 hours ago
- History
- 1 contributor
-39 lines (34 sloc)  959 Bytes
-
 #include <iostream>
 #include <string>
 using namespace std; 
@@ -66,19 +36,3 @@ int main() {
         
     return 0;
 }
-}
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-You have no unread notifications
